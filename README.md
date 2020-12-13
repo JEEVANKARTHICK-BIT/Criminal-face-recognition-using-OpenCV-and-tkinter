@@ -29,9 +29,9 @@ Clone this repository and run criminal_catcher.py
 
 SCREENSHOTS:
 
-![](G:\Spyder\Face_Recog_Final_Proj\screenshot_0.png)
-![](G:\Spyder\Face_Recog_Final_Proj\screenshot_1.png)
-![](G:\Spyder\Face_Recog_Final_Proj\screenshot_2.png)
+![home_page](G:\Spyder\Face_Recog_Final_Proj\screenshot_0.png)
+![enter_name_0](G:\Spyder\Face_Recog_Final_Proj\screenshot_1.png)
+![enter_name_1](G:\Spyder\Face_Recog_Final_Proj\screenshot_2.png)
 ![](G:\Spyder\Face_Recog_Final_Proj\screenshot_3.png)
 ![](G:\Spyder\Face_Recog_Final_Proj\screenshot_4.png)
 ![](G:\Spyder\Face_Recog_Final_Proj\screenshot_5.png)
