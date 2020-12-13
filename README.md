@@ -29,13 +29,13 @@ Clone this repository and run criminal_catcher.py
 
 SCREENSHOTS:
 
-![home_page](G:\Spyder\Face_Recog_Final_Proj\screenshot_0.png)
-![enter_name_0](G:\Spyder\Face_Recog_Final_Proj\screenshot_1.png)
-![enter_name_1](G:\Spyder\Face_Recog_Final_Proj\screenshot_2.png)
-![](G:\Spyder\Face_Recog_Final_Proj\screenshot_3.png)
-![](G:\Spyder\Face_Recog_Final_Proj\screenshot_4.png)
-![](G:\Spyder\Face_Recog_Final_Proj\screenshot_5.png)
-![](G:\Spyder\Face_Recog_Final_Proj\screenshot_6.png)
+![home_page](screenshot_0.png)
+![enter_name_0](screenshot_1.png)
+![enter_name_1](screenshot_2.png)
+![dataset_collected](screenshot_3.png)
+![embeddings_collected](screenshot_4.png)
+![training_completed](screenshot_5.png)
+![recognized_face](screenshot_6.png)
 
 
 
