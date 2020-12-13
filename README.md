@@ -25,16 +25,23 @@ WORKING:
 HOW TO RUN:
 
 Clone this repository and run criminal_catcher.py
-*Don't forget to unzip OpenFace_embedding_model
+*Don't forget to download "openface_nn4.small2.v1.t7" and save it in OpenFace_embedding_model directory.
 
 SCREENSHOTS:
 
+
 ![home_page](screenshot_0.png)
+
 ![enter_name_0](screenshot_1.png)
+
 ![enter_name_1](screenshot_2.png)
+
 ![dataset_collected](screenshot_3.png)
+
 ![embeddings_collected](screenshot_4.png)
+
 ![training_completed](screenshot_5.png)
+
 ![recognized_face](screenshot_6.png)
 
 
